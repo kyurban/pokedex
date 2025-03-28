@@ -10,12 +10,6 @@ A simple Pokédex web application built with HTML, CSS, and JavaScript. It fetch
 - Show Pokémon type(s)
 - Show Pokémon height and weight
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
-- [PokéAPI](https://pokeapi.co/) for fetching Pokémon data
-
 ## Setup
 1. Clone the repository:
    ```bash
