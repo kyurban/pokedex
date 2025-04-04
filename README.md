@@ -1,4 +1,4 @@
-# Simple Pokédex
+# Pokédex
 
 A simple Pokédex web application built with HTML, CSS, and JavaScript. It fetches data from the [PokéAPI](https://pokeapi.co/) and allows users to search for a Pokémon by name.
 
